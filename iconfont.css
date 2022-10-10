@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "alifont"; /* Project id 3696813 */
+  src: url('iconfont.woff2?t=1665407946989') format('woff2'),
+       url('iconfont.woff?t=1665407946989') format('woff'),
+       url('iconfont.ttf?t=1665407946989') format('truetype');
+}
+
+.alifont {
+  font-family: "alifont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ali-icon-dashang:before {
+  content: "\e692";
+}
+
+.ali-icon-dashang-01:before {
+  content: "\e636";
+}
+
+.ali-icon-shuaxin:before {
+  content: "\e666";
+}
+
+.ali-icon-jiantou_zuoyouqiehuan:before {
+  content: "\eb0d";
+}
+
+.ali-icon-baobiao:before {
+  content: "\eb2e";
+}
+
+.ali-icon-rule:before {
+  content: "\e60f";
+}
+
+.ali-icon-duihao:before {
+  content: "\eaf1";
+}
+
+.ali-icon-caidan:before {
+  content: "\eaf2";
+}
+
+.ali-icon-guanbi:before {
+  content: "\eaf3";
+}
+
+.ali-icon-kaiguan:before {
+  content: "\eaf7";
+}
+
+.ali-icon-yanjing_xianshi:before {
+  content: "\eb46";
+}
+
+.ali-icon-yanjing_yincang_o:before {
+  content: "\ebcd";
+}
+
+.ali-icon-settings:before {
+  content: "\e699";
+}
+
+.ali-icon-cancel:before {
+  content: "\e698";
+}
+
+.ali-icon-prevent:before {
+  content: "\e69d";
+}
+
+.ali-icon-information:before {
+  content: "\e69e";
+}
+
+.ali-icon-QA:before {
+  content: "\e6e5";
+}
+
+.ali-icon-gohome:before {
+  content: "\e6eb";
+}
+
